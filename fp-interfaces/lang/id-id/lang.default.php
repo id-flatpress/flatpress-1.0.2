@@ -156,7 +156,7 @@ LangId: Bahasa Indonesia translate by: eggoez - http://eggoez.com
 		'Agustus',
 		'September',
 		'Oktober',
-		'Nopember',
+		'November',
 		'Desember'
 		
 	);
@@ -173,7 +173,7 @@ LangId: Bahasa Indonesia translate by: eggoez - http://eggoez.com
 		'Agu',
 		'Sep',
 		'Okt',
-		'Nop',
+		'Nov',
 		'Des'
 		
 	);
