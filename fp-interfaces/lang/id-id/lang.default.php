@@ -170,7 +170,7 @@ LangId: Bahasa Indonesia translate by: eggoez - http://eggoez.com
 		'Mei',
 		'Jun',
 		'Jul',
-		'Agust',
+		'Agu',
 		'Sep',
 		'Okt',
 		'Nop',
